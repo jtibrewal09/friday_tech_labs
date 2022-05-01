@@ -1,0 +1,23 @@
+<svg width="227" height="46" viewBox="0 0 227 46" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="p7p3tbt04c">
+            <stop stop-color="#2A131D" offset="0%"/>
+            <stop stop-color="#1E1E37" offset="100%"/>
+        </linearGradient>
+        <path d="M26 46c25.986 0 25.986 0 25.986-23S53.478 0 26 0 .014 0 .014 23 .014 46 26 46z" id="tabhugjmqa"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <mask id="f0pbw0alib" fill="#fff">
+                <use xlink:href="#tabhugjmqa"/>
+            </mask>
+            <use fill="#FFF" xlink:href="#tabhugjmqa"/>
+            <g mask="url(#f0pbw0alib)" fill="url(#p7p3tbt04c)" fill-rule="nonzero">
+                <path d="M39.9 35.86v-9.048a1 1 0 0 0-1-1h-9.222v-2.314c0-1.512.178-2.402.355-3.025.267-.712.534-1.245 1.067-1.78.978-.978 2.133-1.69 4.889-1.69 1.689 0 2.311.178 3.911.712v-9.52c-4.8-1.157-6.844-1.335-9.422-1.335-7.111 0-10.756 2.046-12.8 4.716-1.582 2.11-4.784 6.77-9.608 13.98a.977.977 0 0 0-.17.554v9.75a1 1 0 0 0 1 1h30a1 1 0 0 0 1-1z"/>
+            </g>
+        </g>
+        <text fill-rule="nonzero" font-family="MADEOuterSans-Medium, MADE Outer Sans" font-size="22" font-weight="400" fill="#FFF">
+                        <tspan x="62" y="32">Friday Tech</tspan>
+                    </text>
+    </g>
+</svg>

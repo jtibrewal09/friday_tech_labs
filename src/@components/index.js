@@ -1,5 +1,5 @@
 import CustomButton from './button';
 
 export {
-    CustomButton,
+    CustomButton as Button,
 };

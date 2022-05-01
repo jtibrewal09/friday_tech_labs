@@ -1,0 +1,12 @@
+@import '@utils/colors.scss';
+
+.page-container {
+  height: 100vh;
+  background-color: $background;
+
+  .header {
+    display: flex;
+    padding: 0 16em;
+    justify-content: space-between;
+  }
+}
