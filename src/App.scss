@@ -1,4 +1,4 @@
-@import '@utils/colors.scss';
+@import 'assets/CSS/colors.scss';
 
 .page-container {
   height: 100vh;
@@ -8,5 +8,16 @@
     display: flex;
     padding: 0 16em;
     justify-content: space-between;
+
+    .menu-items-container {
+      color: $text;
+      font-size: 16px;
+    }
+  }
+
+  .body-tagline {
+    font-size: 80px;
+    color: $text;
+    line-height: 0.95;
   }
 }
