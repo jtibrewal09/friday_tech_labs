@@ -1,6 +1,6 @@
 const CustomButton = (props) => {
-    const { label } = props;
-    return (<button>{label}</button>);
+    const { label, className } = props;
+    return (<button className={className}>{label}</button>);
 };
 
 export default CustomButton;

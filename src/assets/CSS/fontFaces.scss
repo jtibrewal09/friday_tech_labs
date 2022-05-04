@@ -1,6 +1,54 @@
 @font-face {
     font-family: 'AkzidenzGroteskBQ-MedExt';
     src: local('AkzidenzGroteskBQ-MedExt'), url(../fonts/AkzidenzGroteskBQ-MedExt.otf) format('opentype');
-    /* other formats include: 'woff2', 'truetype, 'opentype',
-                              'embedded-opentype', and 'svg' */
+}
+
+@font-face {
+    font-family: 'CircularStd';
+    src: local('CircularStd'), url(../fonts/circularStd/CircularStd-Book.otf) format('opentype');
+}
+
+@font-face {
+    font-family: 'CircularStd';
+    font-style: italic;
+    src: local('CircularStd'), url(../fonts/circularStd/CircularStd-BookItalic.otf) format('opentype');
+}
+
+@font-face {
+    font-family: 'CircularStd';
+    font-weight: 500;
+    src: local('CircularStd'), url(../fonts/circularStd/CircularStd-Medium.otf) format('opentype');
+}
+
+@font-face {
+    font-family: 'CircularStd';
+    font-weight: 500;
+    font-style: italic;
+    src: local('CircularStd'), url(../fonts/circularStd/CircularStd-MediumItalic.otf) format('opentype');
+}
+
+@font-face {
+    font-family: 'CircularStd';
+    font-weight: 900;
+    src: local('CircularStd'), url(../fonts/circularStd/CircularStd-Black.otf) format('opentype');
+}
+
+@font-face {
+    font-family: 'CircularStd';
+    font-weight: 900;
+    font-style: italic;
+    src: local('CircularStd'), url(../fonts/circularStd/CircularStd-BlackItalic.otf) format('opentype');
+}
+
+@font-face {
+    font-family: 'CircularStd';
+    font-weight: bold;
+    src: local('CircularStd'), url(../fonts/circularStd/CircularStd-Bold.otf) format('opentype');
+}
+
+@font-face {
+    font-family: 'CircularStd';
+    font-weight: bold;
+    font-style: italic;
+    src: local('CircularStd'), url(../fonts/circularStd/CircularStd-BoldItalic.otf) format('opentype');
 }
