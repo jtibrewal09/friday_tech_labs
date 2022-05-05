@@ -7,6 +7,9 @@
   display: flex;
   flex-direction: column;
   align-items: center;
+  background-image: url(./assets/images/grid.png);
+  background-size: cover;
+  background-repeat: no-repeat;
 
   @mixin text-gradient {
     background: linear-gradient(90deg,#d1aad7,#c88bc4 25.17%,#7b8fdd 50%,#86bff2 73.09%,#bbdef2);
@@ -64,5 +67,15 @@
 
   .coming-soon {
     font-size: 40px;
+  }
+
+  .footer {
+    width: 100%;
+    opacity: 75%;
+    font-family: CircularStd;
+    background-color: $background-dark;
+    padding: 10px 0;
+    font-size: 14px;
+    text-align: center;
   }
 }

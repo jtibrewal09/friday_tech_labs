@@ -1,0 +1,18 @@
+<svg width="104" height="92" viewBox="0 0 104 92" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="u8a0b29o8c">
+            <stop stop-color="#2A131D" offset="0%"/>
+            <stop stop-color="#1E1E37" offset="100%"/>
+        </linearGradient>
+        <path d="M52 92c51.971 0 51.971 0 51.971-46S106.956 0 52 0C-2.956 0 .029 0 .029 46S.029 92 52 92z" id="spuuuxzkwa"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <mask id="nrkemse8bb" fill="#fff">
+            <use xlink:href="#spuuuxzkwa"/>
+        </mask>
+        <use fill="#FFF" xlink:href="#spuuuxzkwa"/>
+        <g mask="url(#nrkemse8bb)" fill="url(#u8a0b29o8c)" fill-rule="nonzero">
+            <path d="M83.8 71.72V53.623a2 2 0 0 0-2-2H63.356v-4.626c0-3.026.355-4.805.71-6.05.534-1.424 1.067-2.492 2.134-3.56 1.956-1.957 4.267-3.38 9.778-3.38 3.378 0 4.622.355 7.822 1.423V16.39c-9.6-2.314-13.689-2.67-18.844-2.67-14.223 0-21.512 4.093-25.6 9.431-3.2 4.271-9.719 13.762-19.556 28.472V71.72a2 2 0 0 0 2 2h60a2 2 0 0 0 2-2z"/>
+        </g>
+    </g>
+</svg>

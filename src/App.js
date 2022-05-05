@@ -22,6 +22,7 @@ function App() {
         </div>
         <div className='coming-soon'>Coming soon!</div>
       </section>
+      <footer className='footer'>2022  Friday Tech Labs Priavte Limited All Rights Reserved.</footer>
     </div>
   );
 }
