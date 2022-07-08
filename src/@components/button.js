@@ -1,6 +1,10 @@
+import classNames from 'classnames';
+
+import './components.scss';
+
 const CustomButton = (props) => {
-    const { label, className } = props;
-    return (<button className={className}>{label}</button>);
+    const { label, className = '', primary } = props;
+    return (<button className={classNames('custom-button', { 'primary': primary }, className)}>{label}</button>);
 };
 
 export default CustomButton;
